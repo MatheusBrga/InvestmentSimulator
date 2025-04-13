@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de **README.md** completo e no mesmo estilo dos seus projetos anteriores para colocar no GitHub:
-
 ---
 
 # 💸 Simulador de Investimentos
